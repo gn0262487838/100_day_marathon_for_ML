@@ -1,2 +1,5 @@
 # data
 /D4/data/*
+
+# checkpoint
+/D*/.ipynb_checkpoints/*
