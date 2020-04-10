@@ -3,3 +3,6 @@
 
 # checkpoint
 /D*/.ipynb_checkpoints/
+
+# .vscode
+/.vscode/
